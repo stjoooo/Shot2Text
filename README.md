@@ -15,7 +15,7 @@ Follow these steps to set it up:
 
 1. Install system dependencies: 
    ```
-   sudo apt-get install xclip tesseract-ocr -y
+   sudo apt-get install xclip tesseract-ocr
    ```
 
 2. Create a virtual environment: 
